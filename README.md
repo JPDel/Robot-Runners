@@ -17,7 +17,7 @@ While the original board game had many mechanics, I was able to implement the fo
 
 As far as technical components:
 
-My main focus was implementing game AI, allowing for the AI robot to make informed decisions as to how it uses its actions.
+My main focus was implementing game AI, allowing for the AI robot to make informed decisions as to how it uses its actions. It is sort of a mix between behaviour and pathfinding, as the AI needs to not only know where to go, but also how to use the actions it has available in order to reach the goal.
 
 I also, allowed players to “crash” into each other, and bump one another to different spaces.
 
